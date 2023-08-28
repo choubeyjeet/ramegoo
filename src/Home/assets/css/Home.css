@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .item {
+    flex-basis: calc(20% - 20px); /* 25% minus margin */
+  flex-grow: 0; /* Prevent the item from growing */
+  margin: 10px;
+  margin-top: 30px;
+  text-align: center;   
+  text-decoration: none !important;
+  transition: transform .3s;
+  }
+  
+  /* Media query for small screens */
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column;
+    }
+  }
+
+  
+.item:hover {
+  transform: scale(1.1);
+}
