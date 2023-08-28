@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ramegoo/static/css/main.cd983aaf.css",
-    "main.js": "/ramegoo/static/js/main.b11aa19c.js",
+    "main.js": "/ramegoo/static/js/main.b374afc3.js",
     "static/js/787.c4e7f8f9.chunk.js": "/ramegoo/static/js/787.c4e7f8f9.chunk.js",
     "index.html": "/ramegoo/index.html",
     "main.cd983aaf.css.map": "/ramegoo/static/css/main.cd983aaf.css.map",
-    "main.b11aa19c.js.map": "/ramegoo/static/js/main.b11aa19c.js.map",
+    "main.b374afc3.js.map": "/ramegoo/static/js/main.b374afc3.js.map",
     "787.c4e7f8f9.chunk.js.map": "/ramegoo/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd983aaf.css",
-    "static/js/main.b11aa19c.js"
+    "static/js/main.b374afc3.js"
   ]
 }
