@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ramegoo/static/css/main.2925e5d2.css",
+    "main.js": "/ramegoo/static/js/main.b95e26a9.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/ramegoo/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/ramegoo/index.html",
+    "main.2925e5d2.css.map": "/ramegoo/static/css/main.2925e5d2.css.map",
+    "main.b95e26a9.js.map": "/ramegoo/static/js/main.b95e26a9.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/ramegoo/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2925e5d2.css",
+    "static/js/main.b95e26a9.js"
+  ]
+}
